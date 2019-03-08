@@ -112,6 +112,10 @@ Copiar archivo:
 $ cp ORIGEN DESTINO
 ```
 
+Copiar directorio:
+```
+$ cp -r directorio/ ruta_de_destino/nombre_copia
+´´´
 Eliminar archivo:
 ```
 $ rm RUTA
